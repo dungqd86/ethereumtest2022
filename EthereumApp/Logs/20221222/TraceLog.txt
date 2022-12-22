@@ -1,0 +1,7 @@
+56\tCLGT
+eth_getBlockByNumber ==> 12/22/2022 16:52:20 \t 1507ms
+eth_getBlockByNumber ==> 12/22/2022 16:52:26 \t 715ms
+eth_getBlockByNumber ==> 12/22/2022 16:52:32 \t 705ms
+eth_getBlockByNumber ==> 12/22/2022 23:52:48 \t 2435ms
+eth_getBlockByNumber ==> 12/22/2022 23:52:54 \t 685ms
+eth_getBlockByNumber ==> 12/22/2022 23:53:00 \t 786ms
